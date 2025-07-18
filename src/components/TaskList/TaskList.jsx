@@ -1,6 +1,6 @@
 import React from 'react'
 
-function FailedTask() {
+function TaskList() {
   return (
     <div>
       
@@ -8,4 +8,5 @@ function FailedTask() {
   )
 }
 
-export default FailedTask
+export default TaskList
+
