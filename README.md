@@ -47,7 +47,7 @@ This project includes:
 
 ---
 
-## 📁 Folder Structure (Simplified)
+## 📁 Folder Structure 
 
 ```
 
@@ -96,7 +96,7 @@ index.js
 
 ---
 
-## 📌 Future Improvements (Optional)
+## 📌 Future Improvements 
 
 * 🔄 Backend integration with Node.js/Express
 * 📊 Task analytics with charts
